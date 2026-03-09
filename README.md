@@ -1,63 +1,111 @@
-# Hi 👋 I'm Lakshay Attri
+<h1 align="center">Hi 👋, I'm Lakshay Attri</h1>
+<h3 align="center">🚀 Full Stack Developer | React | Tailwind | MongoDB</h3>
 
-🚀 Full Stack Developer | React | Tailwind | MongoDB | SQL
-
-💻 I build modern web apps with clean UI and scalable architecture.
-
-🌱 Currently improving:
-
-* React Performance
-* System Design
-* Full Stack Projects
-
-📫 Reach me at: **[attrilakshay07@gmail.com](mailto:attrilakshay07@gmail.com)**
-
-🔗 Portfolio (coming soon)
-
-## 📊 GitHub Stats
-
-![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=laksh-2106&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laksh-2106&layout=compact&theme=tokyonight)
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/laksh-2106/laksh-2106/blob/output/github-contribution-grid-snake.svg)
-
-## 🚀 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vscode" />
+<p align="center">
+I build modern web applications with beautiful UI and scalable architecture.
 </p>
 
-## 🔥 Featured Projects
+---
 
-🚀 **LUX Store**
-Full stack ecommerce application with modern UI.
+## 🌐 Connect with me
 
-🚀 **Medi Assist**
-AI powered healthcare assistant with voice & text symptom checker.
+<p align="left">
+<a href="https://github.com/laksh-2106" target="blank">
+<img src="https://img.shields.io/github/followers/laksh-2106?label=Followers&style=social" />
+</a>
+</p>
 
-🚀 **CivicLens**
-Citizen platform for reporting infrastructure problems.
+📫 Email: **[attrilakshay07@gmail.com](mailto:attrilakshay07@gmail.com)**
 
-## 👀 Profile Views
+---
 
-![](https://komarev.com/ghpvc/?username=laksh-2106&color=blue)
+# 🚀 Tech Stack
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vscode,typescript" />
+</p>
 
+---
 
-<!--
-**laksh-2106/laksh-2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laksh-2106&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laksh-2106&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+## 🧠 Task Board
+
+A modern **Kanban style task manager** built using React, Tailwind and modern UI libraries.
+
+Features:
+
+* Drag and drop tasks
+* Real time task updates
+* Clean UI
+
+---
+
+## 🛒 LUX Store
+
+Full stack **E-Commerce Web Application** that allows users to browse and purchase products.
+
+Features:
+
+* Product listings
+* Cart system
+* Responsive UI
+* Modern UI design
+
+---
+
+## 🏥 Medi Assist
+
+AI powered **Healthcare Assistant** that helps users understand symptoms using AI.
+
+Features:
+
+* Voice & text input
+* AI based symptom detection
+* Medical suggestions
+
+---
+
+## 🌆 CivicLens
+
+Citizen platform to **report infrastructure problems** like potholes, garbage overflow and streetlight issues.
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/laksh-2106/laksh-2106/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=laksh-2106&label=Profile%20views&color=0e75b6&style=flat" alt="laksh-2106" /> 
+</p>
+
+---
+
+# 💡 Currently Learning
+
+* Advanced React Patterns
+* System Design
+* Full Stack Architecture
+
+---
+
+⭐ From [Lakshay Attri](https://github.com/laksh-2106)
