@@ -84,11 +84,9 @@ Citizen platform to **report infrastructure problems** like potholes, garbage ov
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://github.com/laksh-2106/laksh-2106/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+![snake gif](https://github.com/laksh-2106/laksh-2106/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
