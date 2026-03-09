@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/laksh-2106/laksh-2106/main/ChatGPT Image Mar 10, 2026, 12_56_06 AM.png"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Lakshay Attri</h1>
 
