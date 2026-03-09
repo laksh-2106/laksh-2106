@@ -31,36 +31,14 @@ React • Tailwind CSS • JavaScript • TypeScript • MongoDB • SQL
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=laksh-2106&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laksh-2106&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laksh-2106&theme=tokyo-night"/>
-</p>
 
 ---
 
 
----
-
-# 🧠 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/laksh2509?theme=dark&font=Nunito&ext=heatmap"/>
-</p>
 
 ---
+
+
 
 # 💻 Coding Profiles
 
