@@ -1,6 +1,7 @@
 <p align="center">
-<img src="YOUR_IMAGE_LINK" alt="Lakshay Attri Banner"/>
+<img src="https://raw.githubusercontent.com/laksh-2106/laksh-2106/main/"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Lakshay Attri</h1>
 
 <p align="center">
