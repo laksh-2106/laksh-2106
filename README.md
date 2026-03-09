@@ -6,6 +6,9 @@ I build modern web applications with beautiful UI and scalable architecture.
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/laksh-2106/laksh-2106/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Connect with me
 
@@ -27,15 +30,7 @@ I build modern web applications with beautiful UI and scalable architecture.
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laksh-2106&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laksh-2106&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -84,9 +79,7 @@ Citizen platform to **report infrastructure problems** like potholes, garbage ov
 
 ---
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/laksh-2106/laksh-2106/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
