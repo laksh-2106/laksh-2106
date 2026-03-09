@@ -36,16 +36,6 @@ I build modern web applications with beautiful UI and scalable architecture.
 
 # 🔥 Featured Projects
 
-## 🧠 Task Board
-
-A modern **Kanban style task manager** built using React, Tailwind and modern UI libraries.
-
-Features:
-
-* Drag and drop tasks
-* Real time task updates
-* Clean UI
-
 ---
 
 ## 🛒 LUX Store
