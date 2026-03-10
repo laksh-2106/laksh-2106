@@ -12,7 +12,7 @@
 💻 Passionate **Full Stack Developer** building modern and scalable web applications.
 
 ⚡ Tech Stack:
-React • Tailwind CSS • JavaScript • TypeScript • MongoDB • SQL
+React • Tailwind CSS • JavaScript • TypeScript • SQL
 
 🌱 Currently learning:
 
