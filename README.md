@@ -1,3 +1,15 @@
+<div align="center">
+
+# 🎬 Explore My Portfolio
+
+**A cinematic, Netflix-inspired developer portfolio.**
+
+[![Open Portfolio](https://img.shields.io/badge/▶%20OPEN%20MY%20PORTFOLIO-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://laksh-2106.github.io/laksh-2106/)
+
+</div>
+
+---
+
 <h1 align="center">Hi 👋, I'm Lakshay Attri</h1>
 
 <h2 align="center">
