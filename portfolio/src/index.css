@@ -1,0 +1,8 @@
+@import "tailwindcss";
+:root{font-family:'DM Sans',sans-serif;color:#f7f7fb;background:#050505;font-synthesis:none;text-rendering:optimizeLegibility;scroll-behavior:smooth}
+*{box-sizing:border-box}html{scroll-behavior:smooth;background:#050505}body{margin:0;min-width:320px;background:#050505;color:#f7f7fb}a{color:inherit}button,input,textarea{font:inherit}::selection{background:#e50914;color:white}
+::-webkit-scrollbar{width:8px}::-webkit-scrollbar-track{background:#08080c}::-webkit-scrollbar-thumb{background:#5c1820;border-radius:20px}::-webkit-scrollbar-thumb:hover{background:#e50914}
+.font-display{font-family:'Oswald',Impact,sans-serif}.text-glow{text-shadow:0 0 32px rgba(229,9,20,.28)}
+@keyframes marquee{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}.animate-marquee{display:flex;width:max-content;animation:marquee 42s linear infinite}
+@media(pointer:coarse),(max-width:768px){.custom-cursor,.custom-cursor-ring,.cursor-spotlight{display:none!important}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
